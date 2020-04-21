@@ -1,0 +1,4 @@
+[submodule "ellipsegroup/auction"]
+	path = ellipsegroup/auction
+	url = git@github.com:ellipsegroup/1000pb.git
+	branch = master
